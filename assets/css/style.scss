@@ -7,6 +7,30 @@
   text-align:center;
 }
 
+.wa-btn{
+    background: #00DF38;
+    display: inline-block;
+    border: 3px solid #fff;
+    border-radius: 300px;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    padding: 1rem 1.5rem;
+    font-size: 1.25rem;
+    line-height: 1.33;
+    color: #fff !important;
+    display: flex;
+    max-width: 300px;
+    margin: auto;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    align-items: center;
+    justify-content: center;
+}
+
 footer{
   text-align:center;
 }

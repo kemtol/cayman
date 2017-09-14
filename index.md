@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<div class="text-center">
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
@@ -123,5 +121,3 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
-
-</div>

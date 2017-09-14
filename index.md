@@ -6,9 +6,7 @@ layout: default
 
 Jangan takut! Chat dan tanyakan dulu, ngobrol dulu, tidak jadi juga tidak apa apa.
 
-Klik tombok hijau WA dibawah, anda akan langsung tersambung dengan WA handphone anda.
-
-
-
 ![](https://raw.githubusercontent.com/kemtol/sambunglangsung/master/images/customer-service-solusikonveksi.png)
 [WA 0838-9072-2797](https://api.whatsapp.com/send?phone=6283890722797&text=Halo%20mau%20info%20donk){: .wa-btn}
+
+<sub><sup>Klik tombol diatas untuk chat WA</sup></sub>
